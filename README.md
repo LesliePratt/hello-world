@@ -9,4 +9,4 @@ Always do the right thing,
    because its the right thing to do.
   
 You can change someones perception,
-  Reality won't budge.
+  reality won't budge.
