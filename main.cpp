@@ -23,6 +23,7 @@ Purpose: This is the main file for my
 
 int main(int argc, char** argv) {
     std::cout << "My command line analyzer..." << std::endl;
+    std::cout << "The number of command line parameters are: " << argc << std::endl;
 
     return 0;
 }
