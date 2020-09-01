@@ -5,7 +5,7 @@ Coding: 01
 
 Purpose: This is the main file for my
 		 my Hello-World program. 
-/*************************************
+*************************************/
 
 /*
  * This is a simple Hello World in C++.
@@ -22,8 +22,14 @@ Purpose: This is the main file for my
 #include "main.h"
 
 int main(int argc, char** argv) {
+	
     std::cout << "My command line analyzer..." << std::endl;
+    
     std::cout << "The number of command line parameters are: " << argc << std::endl;
+    
+    if (argc > 1){
+       std::cout << "The length of the first parameters is: " << string_length(argv[1]) << std::endl;
+	}
 
     return 0;
 }

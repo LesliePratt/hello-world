@@ -7,7 +7,7 @@ Purpose: This is main header file for
 		 my Hello-World program. All the 
 		 necessary headers will be added
 		 here.
-/*************************************
+*************************************/
 
 /*
  * This is a simple Hello World in C++.
@@ -25,5 +25,6 @@ Purpose: This is main header file for
 #define HELLOWORLD_MAIN_H
 
 #include <iostream>
+#include "functions.h"
 
 #endif //HELLOWORLD_MAIN_H
