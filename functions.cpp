@@ -13,5 +13,7 @@ Purpose: This is a functions file my
 
 int string_length(const char *str){
 
-	return 0;
+	int length = strlen(str);
+
+	return length;
 }

@@ -12,7 +12,8 @@ Purpose: This is a functions header file
 #ifndef HELLOWORLD_FUNCTIONS_H
 #define HELLOWORLD_FUNCTIONS_H
 
+#include <iostream>
+#include <cstring>
 int string_length(const char*);
-//int string_length(const char *str);
 
 #endif //HELLOWORLD_FUNCTIONS_H
