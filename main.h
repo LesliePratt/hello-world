@@ -1,3 +1,14 @@
+/************************************
+Name: Leslie Pratt
+
+Coding: 01
+
+Purpose: This is main header file for
+		 my Hello-World program. All the 
+		 necessary headers will be added
+		 here.
+/*************************************
+
 /*
  * This is a simple Hello World in C++.
  * Note the header structure and files.

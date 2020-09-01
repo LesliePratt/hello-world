@@ -1,3 +1,12 @@
+/************************************
+Name: Leslie Pratt
+
+Coding: 01
+
+Purpose: This is the main file for my
+		 my Hello-World program. 
+/*************************************
+
 /*
  * This is a simple Hello World in C++.
  * Note the header structure and files.
@@ -13,7 +22,7 @@
 #include "main.h"
 
 int main(int argc, char** argv) {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "My command line analyzer..." << std::endl;
 
     return 0;
 }
